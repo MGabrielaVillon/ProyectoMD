@@ -24,7 +24,7 @@ public class App extends Application {
     //label cuenta regresiva
     public Label cuentaRegresiva = new Label("");
     //label cuenta  puntos
-    public Label cuentaPuntos = new Label(String.valueOf(puntosGanables));
+    public Label cuentaPuntos = new Label("");
     //label mensaje exito o fracaso
     public Label mensaje = new Label("Comienzo!");
     
